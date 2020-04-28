@@ -1,0 +1,3 @@
+changed pad char from '∏' to '<pad>' in __init__ of class VocabEntry
+changed unk char from 'Û' to '<unk>' in __init__ of class VocabEntry
+I changed these characters because of KeyError 
